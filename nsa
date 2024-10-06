@@ -1,0 +1,198 @@
+{
+    "help": "https://open.canada.ca/data/api/3/action/help_show?name=package_show",
+    "success": true,
+    "result": {
+      "aggregate_identifier": "",
+      "association_type": [],
+      "audience": [],
+      "author": null,
+      "author_email": null,
+      "collection": "fgp",
+      "contact_information": "{\"en\": {\"delivery_point\": \"\", \"city\": \"\", \"administrative_area\": \"\", \"postal_code\": \"\", \"country\": \"\", \"electronic_mail_address\": \"donneesouvertes@montreal.ca\"}, \"fr\": {\"point_de_livraison\": \"\", \"zone_administrative\": \"\", \"pays\": \"\", \"electronic_mail_address\": \"donneesouvertes@montreal.ca\"}}",
+      "contributor": {
+  
+      },
+      "creator": "Service des infrastructures du réseau routier - Division gestion stratégique des actifs",
+      "creator_user_id": "b88b9549-3a4b-43a9-9375-5f3fc20fe782",
+      "data_series_issue_identification": {
+  
+      },
+      "data_series_name": {
+  
+      },
+      "date_published": "2023-09-27 00:00:00",
+      "display_flags": [],
+      "distributor": "{\"en\": {\"organization_name\": \"Government and Municipalities of Qu\\u00e9bec; Government and Municipalities of Qu\\u00e9bec; Ville de Montr\\u00e9al\", \"phone\": \"\", \"address\": \"\", \"city\": \"\", \"administrative_area\": \"\", \"postal_code\": \"\", \"country\": \"\", \"electronic_mail_address\": \"donneesouvertes@montreal.ca\"}, \"fr\": {\"nom_organization\": \"Gouvernement et municipalit\\u00e9s du Qu\\u00e9bec; Gouvernement et municipalit\\u00e9s du Qu\\u00e9bec; Ville de Montr\\u00e9al\", \"telephone\": \"\", \"adresse\": \"\", \"zone_administrative\": \"\", \"pays\": \"\", \"electronic_mail_address\": \"donneesouvertes@montreal.ca\"}}",
+      "file_id": "77fe63be-109f-42b0-9e4c-3892621dcd72",
+      "frequency": "irregular",
+      "geographic_region": [],
+      "hierarchy_level": "dataset; jeuDonnées",
+      "id": "77fe63be-109f-42b0-9e4c-3892621dcd72",
+      "imso_approval": "true",
+      "isopen": false,
+      "jurisdiction": "municipal",
+      "keywords": {
+        "fr": [
+          "condition des chaussées",
+          "indicateur de performance",
+          "piste cyclable",
+          "réseau cyclable",
+          "voies cyclables",
+          "état de chaussée",
+          "Information gouvernementale"
+        ],
+        "en-t-fr": [
+          "Pavement condition",
+          "performance indicator",
+          "bike path",
+          "cycling network",
+          "bike lanes",
+          "Road condition",
+          "Government information"
+        ]
+      },
+      "license_id": "qc-cc-by",
+      "license_title": "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec",
+      "license_url": "https://www.donneesquebec.ca/fr/licence/",
+      "maintainer": null,
+      "maintainer_contact_form": {
+  
+      },
+      "maintainer_email": "donneesouvertes@montreal.ca",
+      "metadata_contact": {
+        "en": "Government and Municipalities of Québec; Government and Municipalities of Québec; Ville de Montréal,,donneesouvertes@montreal.ca",
+        "fr": "Gouvernement et municipalités du Québec; Gouvernement et municipalités du Québec; Ville de Montréal,donneesouvertes@montreal.ca"
+      },
+      "metadata_created": "2023-10-05T01:51:36.728656",
+      "metadata_modified": "2024-09-27T14:27:51.396450",
+      "name": "77fe63be-109f-42b0-9e4c-3892621dcd72",
+      "notes": "The City of Montreal is responsible for the development, maintenance and management of the network of bicycle paths located on its territory. Knowledge of the condition and condition of this network is an important element in the process of management, determining needs and establishing an adequate level of service for users. To obtain this information relating to the condition of the roads, auscultation campaigns using specialized equipment are carried out from time to time.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+      "notes_translated": {
+        "fr": "La Ville de Montréal est responsable du développement, de l’entretien et de la gestion du réseau des voies cyclables situé sur son territoire. La connaissance de la condition de l’état de ce réseau est un élément important du processus de gestion, de détermination des besoins et d’établissement d’un niveau de service adéquat pour les usagers. Pour obtenir ces informations relatives à la condition des chaussées, des campagnes d'auscultation utilisant des équipements spécialisés sont réalisées ponctuellement.",
+        "en-t-fr": "The City of Montreal is responsible for the development, maintenance and management of the network of bicycle paths located on its territory. Knowledge of the condition and condition of this network is an important element in the process of management, determining needs and establishing an adequate level of service for users. To obtain this information relating to the condition of the roads, auscultation campaigns using specialized equipment are carried out from time to time.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+      },
+      "num_resources": 2,
+      "num_tags": 0,
+      "org_section": {
+  
+      },
+      "org_title_at_publication": {
+        "en": "Government and Municipalities of Québec",
+        "fr": "Gouvernement et municipalités du Québec"
+      },
+      "organization": {
+        "id": "a20ae82f-4e76-4b64-a340-3d825b3293aa",
+        "name": "qc",
+        "title": "Government and Municipalities of Québec | Gouvernement et municipalités du Québec",
+        "type": "organization",
+        "description": "",
+        "image_url": "",
+        "created": "2020-05-06T17:51:23.353601",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+      },
+      "owner_org": "a20ae82f-4e76-4b64-a340-3d825b3293aa",
+      "place_of_publication": [],
+      "position_name": {
+        "en": "",
+        "fr": ""
+      },
+      "private": false,
+      "program_page_url": {
+  
+      },
+      "ready_to_publish": "true",
+      "reference_system_information": "unknown,unknown,unknown",
+      "responsible_role": "RI_418",
+      "restrictions": "unrestricted",
+      "spatial": "{\"type\": \"Polygon\", \"coordinates\": [[[-74, 45.36], [-73.46, 45.36], [-73.46, 45.72], [-74, 45.72], [-74, 45.36]]]}",
+      "spatial_representation_type": [
+        "vector"
+      ],
+      "state": "active",
+      "status": "planned",
+      "subject": [
+        "form_descriptors",
+        "nature_and_environment",
+        "science_and_technology"
+      ],
+      "time_period_coverage_end": "2030-01-01 00:00:00",
+      "time_period_coverage_start": "2020-01-01 00:00:00",
+      "title": "Indicators of the condition of the pavement of the bicycle network",
+      "title_translated": {
+        "fr": "Indicateurs de condition des chaussées du réseau cyclable",
+        "en-t-fr": "Indicators of the condition of the pavement of the bicycle network"
+      },
+      "topic_category": [
+        "geoscientific_information"
+      ],
+      "type": "dataset",
+      "url": null,
+      "version": null,
+      "resources": [
+        {
+          "cache_last_updated": null,
+          "cache_url": null,
+          "created": "2024-09-27T14:27:51.419394",
+          "data_quality": [],
+          "datastore_active": false,
+          "description": null,
+          "format": "GPKG",
+          "hash": "",
+          "id": "01f21fa4-fa39-4a1d-8b19-bb2c2a83bdf2",
+          "language": [
+            "fr"
+          ],
+          "last_modified": null,
+          "metadata_modified": "2024-09-27T14:27:51.406468",
+          "mimetype": null,
+          "mimetype_inner": null,
+          "name": "Auscultation of the 2020 bicycle network",
+          "name_translated": {
+            "fr": "Auscultation du réseau cyclable 2020",
+            "en-t-fr": "Auscultation of the 2020 bicycle network"
+          },
+          "package_id": "77fe63be-109f-42b0-9e4c-3892621dcd72",
+          "position": 0,
+          "resource_type": "dataset",
+          "state": "active",
+          "url": "https://donnees.montreal.ca/dataset/77fe63be-109f-42b0-9e4c-3892621dcd72/resource/62e2d057-527c-4690-ab8d-6b68d6d06e0b/download/auscultation_reseau_cyclable_2020.gpkg",
+          "url_type": null
+        },
+        {
+          "cache_last_updated": null,
+          "cache_url": null,
+          "created": "2024-09-27T14:27:51.419402",
+          "data_quality": [],
+          "datastore_active": false,
+          "description": null,
+          "format": "HTML",
+          "hash": "",
+          "id": "5ececeff-a4b5-46c8-bde3-126ee2c4839e",
+          "language": [
+            "fr"
+          ],
+          "last_modified": null,
+          "metadata_modified": "2024-09-27T14:27:51.406758",
+          "mimetype": null,
+          "mimetype_inner": null,
+          "name": "Original metadata (https://www.donneesquebec.ca)",
+          "name_translated": {
+            "fr": "Métadonnée originale (https://www.donneesquebec.ca)",
+            "en-t-fr": "Original metadata (https://www.donneesquebec.ca)"
+          },
+          "package_id": "77fe63be-109f-42b0-9e4c-3892621dcd72",
+          "position": 1,
+          "resource_type": "dataset",
+          "state": "active",
+          "url": "https://www.donneesquebec.ca/recherche/fr/dataset/77fe63be-109f-42b0-9e4c-3892621dcd72",
+          "url_type": null
+        }
+      ],
+      "tags": [],
+      "groups": [],
+      "relationships_as_subject": [],
+      "relationships_as_object": []
+    }
+  }
